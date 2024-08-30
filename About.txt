@@ -1,0 +1,9 @@
+Hello All,
+
+This is an Entry Level Python Project which was assigned to me by CloudClause.
+
+This Project's title is Password Generator. 
+Here, I had build a program that allows any user to specify password requirements (like inclusion of numbers/symbols in password) and generate a secure and unique password.
+
+This Project was completed in Python Programming Language.
+Here you'll get to learn about Generating random strings, User-defined functions, Basic password security concept.
